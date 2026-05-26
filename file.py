@@ -1,1 +1,1 @@
-print("I am an Indian")
+print("hello world")
